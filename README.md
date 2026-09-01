@@ -1,4 +1,4 @@
-<img width="1547" height="876" alt="EXECUTIVE OVERVIEW" src="https://github.com/user-attachments/assets/c137974e-2b4a-458e-b7f0-f5c1cc38fac6" />
+
 
 # 🎓 Student 360° — Performance & Insight Analytics
 
@@ -22,7 +22,7 @@ The dashboard allows users to move from an overall performance overview to detai
 
 ### 🏠 01 — Student Performance Overview
 
-![Student Performance Overview](Screenshots/EXECUTIVE OVERVIEW.png)
+<img width="1547" height="876" alt="EXECUTIVE OVERVIEW" src="https://github.com/user-attachments/assets/c137974e-2b4a-458e-b7f0-f5c1cc38fac6" />
 
 Provides a high-level snapshot of the overall student population and performance.
 
@@ -40,7 +40,7 @@ Provides a high-level snapshot of the overall student population and performance
 
 ### 📚 02 — Academic Performance Insights
 
-![Academic Performance Insights](Screenshots/ACADEMIC PERFORMANCE.png)
+<img width="1642" height="915" alt="ACADEMIC PERFORMANCE" src="https://github.com/user-attachments/assets/9f8bf783-8191-4327-87b7-345689809050" />
 
 Analyzes academic achievement across students, subjects, classes, and terms.
 
@@ -54,9 +54,11 @@ Analyzes academic achievement across students, subjects, classes, and terms.
 
 ---
 
-### 🕒 03 — Attendance & Engagement Analytics
+### 🕒 03 — Attendance & Engagement Analytics<img width="1641" height="921" alt="ATTENDANCE ANALYTICS" src="https://github.com/user-attachments/assets/59c4f0ef-b19c-4ad8-84c1-555836a86e9b" />
 
-![Attendance & Engagement Analytics](Screenshots/ATTENDANCE ANALYTICS.png)
+
+<img width="1641" height="921" alt="ATTENDANCE ANALYTICS" src="https://github.com/user-attachments/assets/053e1042-31ca-497f-a406-47b43a5f1d70" />
+
 
 Analyzes attendance patterns and student engagement to identify important trends.
 
@@ -70,8 +72,7 @@ Analyzes attendance patterns and student engagement to identify important trends
 ---
 
 ### 🧠 04 — Behavior & Wellbeing Insights
-
-![Behavior & Wellbeing Insights](Screenshots/BEHAVIOR INSIGHTS.png)
+<img width="1638" height="912" alt="BEHAVIOR INSIGHTS" src="https://github.com/user-attachments/assets/feee5137-b6f7-4281-8d23-77156b9ac749" />
 
 Explores behavioral patterns and helps identify students with higher behavioral activity.
 
@@ -90,7 +91,8 @@ Explores behavioral patterns and helps identify students with higher behavioral 
 
 ### 🎓 05 — Student Performance & Risk
 
-![Student Performance & Risk](Screenshots/STUDENT 360° & RISK ANALYSIS.png)
+<img width="1637" height="917" alt="STUDENT 360°   RISK ANALYSIS" src="https://github.com/user-attachments/assets/8c1c3d3a-cbd2-4fed-837c-d64420061154" />
+
 
 Provides a detailed **Student 360° Profile** covering academic performance, attendance, behavior, and risk indicators.
 
