@@ -54,7 +54,7 @@ Analyzes academic achievement across students, subjects, classes, and terms.
 
 ---
 
-### 🕒 03 — Attendance & Engagement Analytics<img width="1641" height="921" alt="ATTENDANCE ANALYTICS" src="https://github.com/user-attachments/assets/59c4f0ef-b19c-4ad8-84c1-555836a86e9b" />
+### 🕒 03 — Attendance & Engagement Analytics
 
 
 <img width="1641" height="921" alt="ATTENDANCE ANALYTICS" src="https://github.com/user-attachments/assets/053e1042-31ca-497f-a406-47b43a5f1d70" />
