@@ -1,6 +1,4 @@
-# Student-Management-Performance-Analytics-PowerBI
-Student Management &amp; Performance Analytics Dashboard built with Power BI to analyze academic performance, attendance, behavior, student engagement, and individual student risk through interactive visualizations, KPIs, slicers, drill-through, and tooltips.
-
+<img width="1547" height="876" alt="EXECUTIVE OVERVIEW" src="https://github.com/user-attachments/assets/c137974e-2b4a-458e-b7f0-f5c1cc38fac6" />
 
 # 🎓 Student 360° — Performance & Insight Analytics
 
@@ -24,7 +22,7 @@ The dashboard allows users to move from an overall performance overview to detai
 
 ### 🏠 01 — Student Performance Overview
 
-![Student Performance Overview](Screenshots/Executive_Overview.png)
+![Student Performance Overview](Screenshots/EXECUTIVE OVERVIEW.png)
 
 Provides a high-level snapshot of the overall student population and performance.
 
