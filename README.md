@@ -40,7 +40,7 @@ Provides a high-level snapshot of the overall student population and performance
 
 ### 📚 02 — Academic Performance Insights
 
-![Academic Performance Insights](Screenshots/Academic_Performance.png)
+![Academic Performance Insights](Screenshots/ACADEMIC PERFORMANCE.png)
 
 Analyzes academic achievement across students, subjects, classes, and terms.
 
@@ -56,7 +56,7 @@ Analyzes academic achievement across students, subjects, classes, and terms.
 
 ### 🕒 03 — Attendance & Engagement Analytics
 
-![Attendance & Engagement Analytics](Screenshots/Attendance_Analytics.png)
+![Attendance & Engagement Analytics](Screenshots/ATTENDANCE ANALYTICS.png)
 
 Analyzes attendance patterns and student engagement to identify important trends.
 
@@ -71,7 +71,7 @@ Analyzes attendance patterns and student engagement to identify important trends
 
 ### 🧠 04 — Behavior & Wellbeing Insights
 
-![Behavior & Wellbeing Insights](Screenshots/Behavior_Insights.png)
+![Behavior & Wellbeing Insights](Screenshots/BEHAVIOR INSIGHTS.png)
 
 Explores behavioral patterns and helps identify students with higher behavioral activity.
 
@@ -90,7 +90,7 @@ Explores behavioral patterns and helps identify students with higher behavioral 
 
 ### 🎓 05 — Student Performance & Risk
 
-![Student Performance & Risk](Screenshots/Student_Performance_Risk.png)
+![Student Performance & Risk](Screenshots/STUDENT 360° & RISK ANALYSIS.png)
 
 Provides a detailed **Student 360° Profile** covering academic performance, attendance, behavior, and risk indicators.
 
